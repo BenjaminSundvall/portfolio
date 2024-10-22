@@ -10,7 +10,7 @@
 <!-- Add fixed, w-full, and top-0 to keep it at the top -->
 <nav class="fixed top-0 left-0 w-full bg-gray-800 text-white p-4 z-50 shadow-lg">
   <div class="container mx-auto flex justify-between items-center">
-    <a href=/ class="text-xl font-bold">My Portfolio</a>
+    <a href=/ class="text-xl font-bold">Benjamin Sundvall</a>
     <ul class="flex space-x-4">
       {#each links as link}
         <li>
